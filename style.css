@@ -1,0 +1,23 @@
+h1{
+    color:rgb(61, 207, 120);
+    text-align:center;
+    font-family: "Times New Roman", sans-serif;
+    font-size:65px;
+}
+
+
+
+body{
+    background-color: rgba(230, 87, 175, 0.603);
+}
+
+
+
+.list{
+    list-style-position: inside;
+    text-align: center;
+    font-family:"Times New Roman", sans-serif;
+    font-size: 35px;
+    
+}
+
