@@ -1,0 +1,33 @@
+.headers {
+    color:orange;
+    text-align:center;
+    font-size:30px;
+}
+
+.head1{ font-size:55px;
+    color:orange;
+    text-align: center;
+
+}
+
+.list{
+    list-style-position: inside;
+    text-align: center;
+    font-family:"Times New Roman", sans-serif;
+    font-size: 20px;
+    
+}
+
+p{
+    font-size:20px;
+    text-align:center;
+}
+
+img{
+    height:auto;
+    width: 500px;
+}
+
+body{
+    background-color:rgba(19, 233, 169, 0.767);
+}
